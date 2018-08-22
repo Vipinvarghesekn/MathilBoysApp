@@ -1,0 +1,9 @@
+{
+  "name": "mathil-boys-app",
+  "version": "0.0.0",
+  "description": "MathilBoysApp",
+  "main": "server.js",
+  "author": {
+    "name": "vipinv"
+  }
+}
